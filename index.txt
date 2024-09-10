@@ -1,1 +1,1 @@
-This is a master version of the repo
+This is a demo version of the repo
